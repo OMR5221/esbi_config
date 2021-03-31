@@ -27,7 +27,7 @@ Jinja2==2.10
 jsonschema==2.6.0
 jupyter-core==4.4.0
 kafka-python==1.4.4
-lxml==4.3.0
+lxml==4.6.3
 Mako==1.0.7
 MarkupSafe==1.1.0
 nbformat==4.4.0
