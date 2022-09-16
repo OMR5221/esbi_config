@@ -28,7 +28,7 @@ jsonschema==2.6.0
 jupyter-core==4.4.0
 kafka-python==1.4.4
 lxml==4.3.0
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.1.0
 nbformat==4.4.0
 numpy==1.15.4
